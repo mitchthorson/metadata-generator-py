@@ -18,7 +18,7 @@ class Generator(object):
 
     def get_url(self):
         self.url = raw_input("Page URL: ")
-    
+
     output_template = '<meta name="description" content="%(description)s" /> \n <meta property="og:description" content="%(description)s"/> \n <meta name="twitter:description" content="%(description)s"> \n <meta property="og:type" content="website"> \n <meta name="twitter:title" content="%(title)s"> \n <meta property="og:title" content="%(title)s"/> \n <meta name="twitter:card" content="summary_large_image"> \n <meta name="twitter:url" content="%(url)s"> \n <meta property="og:image" content="%(image)s"> \n <meta name="twitter:image" content="%(image)s">'
 
     def create_meta(self):
