@@ -20,7 +20,7 @@ I've gotten tired of wrangling all the HTML meta properties into the necessary t
  ```
  and specify the title, description, url, and image properties just once and viola, metadata.
 
- This probably isn't very useful for you. You're fancy CMS probably does this for you. But if like me, you're on your own, this might be useful.
+ This probably isn't very useful for you. Your fancy CMS probably does this for you. But if like me, you're on your own, this might be useful.
 
 ##Installation
 
