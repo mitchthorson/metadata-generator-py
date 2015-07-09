@@ -9,7 +9,6 @@ setup(
     author_email="mitch.thorson@gmail.com",
     license="MIT",
     packages=["generator"],
-    zip-safe=False,
     entry_points = {
         'console_scripts': ['metadata-generator=generator.command_line:run'],
     }
