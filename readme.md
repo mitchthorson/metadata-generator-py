@@ -33,6 +33,6 @@ pip install git+git://github.com/mitchthorson/metadata-generator-py/
 and you're good to go.
 
 ##Development
-If you want to make changes, (maybe more meta tags??) just pull down the code and hack away. Currently there are no external dependencies. If that ever changes, I'd reccomend setting up a virtual environment.
+If you want to make changes, (maybe more meta tags??) just pull down the code and hack away. Currently there are no external dependencies. If that ever changes, I'd recomend setting up a virtual environment.
 
 
